@@ -1,0 +1,17 @@
+﻿<Properties StartupConfiguration="{1843FE3A-CEF6-410B-9717-4C6A1E3F9B32}|Default" NuGet.AddPackagesDialog.IncludePrerelease="True">
+  <MonoDevelop.Ide.Workbench ActiveDocument="StylingWithCSS/MyStyle.css">
+    <Files>
+      <File FileName="StylingWithCSS/MyStyle.css" Line="13" Column="2" />
+      <File FileName="StylingWithCSS/StylingWithCSSPage.xaml" Line="17" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.StylingWithCSS.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.7F605CB4-4C47-43F3-9D76-1FCD3DDBF0FF">
+    <MonoDevelop.MacDev.AppleDevelopmentTeam />
+  </MonoDevelop.Ide.ItemProperties.StylingWithCSS.iOS>
+  <MultiItemStartupConfigurations />
+</Properties>

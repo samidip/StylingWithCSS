@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms" xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml" xmlns:local="clr-namespace:StylingWithCSS" x:Class="StylingWithCSS.StylingWithCSSPage">
+    <ContentPage.Resources>
+       <StyleSheet Source="MyStyle.css" />
+       <!-- <StyleSheet>
+        <![CDATA[
+            ^contentpage {
+                background-color: aqua;
+            }
+        ]]>-->
+    </ContentPage.Resources>
+    <StackLayout x:Name="MyStack" Orientation="Vertical" VerticalOptions="Center" HorizontalOptions="Center">
+        <Label Text="Welcome to Xamarin Forms!"  StyleClass="MyLabel" /> 
+        <Label x:Name="NamedLabel" Text="Hello World" />
+    </StackLayout>
+</ContentPage>

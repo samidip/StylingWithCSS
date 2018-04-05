@@ -1,0 +1,14 @@
+/Users/Sam/Projects/StylingWithCSS/StylingWithCSS/bin/Debug/StylingWithCSS.dll
+/Users/Sam/Projects/StylingWithCSS/StylingWithCSS/bin/Debug/StylingWithCSS.pdb
+/Users/Sam/Projects/StylingWithCSS/StylingWithCSS/bin/Debug/Xamarin.Forms.Core.dll
+/Users/Sam/Projects/StylingWithCSS/StylingWithCSS/bin/Debug/Xamarin.Forms.Platform.dll
+/Users/Sam/Projects/StylingWithCSS/StylingWithCSS/bin/Debug/Xamarin.Forms.Xaml.dll
+/Users/Sam/Projects/StylingWithCSS/StylingWithCSS/bin/Debug/Xamarin.Forms.Core.pdb
+/Users/Sam/Projects/StylingWithCSS/StylingWithCSS/bin/Debug/Xamarin.Forms.Core.xml
+/Users/Sam/Projects/StylingWithCSS/StylingWithCSS/bin/Debug/Xamarin.Forms.Xaml.pdb
+/Users/Sam/Projects/StylingWithCSS/StylingWithCSS/bin/Debug/Xamarin.Forms.Xaml.xml
+/Users/Sam/Projects/StylingWithCSS/StylingWithCSS/obj/Debug/StylingWithCSS.csproj.CoreCompileInputs.cache
+/Users/Sam/Projects/StylingWithCSS/StylingWithCSS/obj/Debug/StylingWithCSS.dll
+/Users/Sam/Projects/StylingWithCSS/StylingWithCSS/obj/Debug/StylingWithCSS.pdb
+/Users/Sam/Projects/StylingWithCSS/StylingWithCSS/bin/Debug/Xamarin.Forms.Core.Design.dll
+/Users/Sam/Projects/StylingWithCSS/StylingWithCSS/bin/Debug/Xamarin.Forms.Xaml.Design.dll

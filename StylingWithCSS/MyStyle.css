@@ -1,0 +1,13 @@
+﻿^ContentPage {
+    background-color: lightgreen;
+    padding: 20
+}
+.MyLabel {
+    color: red;
+}
+#NamedLabel {
+    font-size: large;
+}
+stacklayout>label {
+    color: blue;
+}
